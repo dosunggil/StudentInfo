@@ -10,7 +10,7 @@ public class StudentController {
 		
 	stSer.inputStudent();
 	stSer.printStudent();
-		
+	
 	}
 	
 
