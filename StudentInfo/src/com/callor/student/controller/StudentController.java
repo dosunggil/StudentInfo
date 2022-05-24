@@ -8,7 +8,7 @@ public class StudentController {
 	public static void main(String[] args){
 		StudentService stSer = new StudentServiceImpl();
 		
-	stSer.inputStudent();
+	//stSer.inputStudent();
 	stSer.printStudent();
 	
 	}
